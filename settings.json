@@ -1,8 +1,6 @@
 {
     "cmake.configureOnOpen": true,
     "git.ignoreMissingGitWarning": true,
-    "debug.onTaskErrors": "debugAnyway",  
-    "rewrap.wrappingColumn": 80,
     "editor.wordWrapColumn": 150,
     "editor.wrappingIndent": "indent",
     "editor.wordWrap": "on",
