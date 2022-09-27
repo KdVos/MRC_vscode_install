@@ -1,0 +1,17 @@
+{
+    "cmake.configureOnOpen": true,
+    "git.ignoreMissingGitWarning": true,
+    "debug.onTaskErrors": "debugAnyway",  
+    "rewrap.wrappingColumn": 80,
+    "editor.wordWrapColumn": 150,
+    "editor.wrappingIndent": "indent",
+    "editor.wordWrap": "on",
+    
+    "git.suggestSmartCommit": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    }
+}
